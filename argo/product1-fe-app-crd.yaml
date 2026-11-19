@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/CloudWithVarJosh/product1-fe-config
+    repoURL: https://github.com/rahulmallapur/product1-fe-config
     targetRevision: main
     path: manifests-fe
 
